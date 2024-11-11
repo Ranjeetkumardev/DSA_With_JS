@@ -6,6 +6,6 @@ const LineerSearch = (arr , val) =>{
 }
  
 
-console.log(LineerSearch([  "ram","Manish"  , "shyam" , "kishor" ,"shurkshit"] ,"Manish"))
+console.log(LineerSearch([ "Ram kripal", "ram","Manish"  , "shyam" , "kishor" ,"shurkshit"] ,"Ram "))
 
  
